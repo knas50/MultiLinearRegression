@@ -8,7 +8,7 @@
 
 import numpy as np
 import pandas as pd
-import seaborn as sns
+
 
 #Import Data
 df = pd.read_csv("C:/Users/raptu/Desktop/PythonWorks/Housing_Price.csv")
